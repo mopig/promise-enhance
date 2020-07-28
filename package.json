@@ -1,0 +1,31 @@
+{
+  "name": "promise-enhance",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "mopig/promise-enhance",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "enhance",
+		"promise",
+		"limit",
+		"limited",
+		"concurrency",
+		"throttle",
+		"throat",
+		"rate",
+		"batch",
+		"ratelimit",
+		"task",
+		"queue",
+		"async",
+		"await",
+		"promises",
+		"bluebird"
+	],
+  "author": "Leo",
+  "license": "MIT"
+}
